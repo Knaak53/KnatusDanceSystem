@@ -24,6 +24,6 @@ start mythic_progbar (only if you dont have it already)
 start KnatusDanceSystem
 
 
-##Youtube demostration
+## Youtube demostration
 
 https://www.youtube.com/watch?v=-hZ-OBlJmhc
