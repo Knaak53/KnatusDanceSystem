@@ -9,7 +9,7 @@
 This is a complete new dance system for FiveM server with full compatibility to work in any servers, doesn't matter if you use ESX, vRP, any framework or not.
 
  
- ##Requeriments
+ ### Requeriments
  To run this code properly in FiveM severs you will need before:
   - [mythic_progbar](https://github.com/mythicrp/mythic_progbar)
   
