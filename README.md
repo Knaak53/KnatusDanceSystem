@@ -37,7 +37,10 @@ this resource permit to you have totally control over the dance, modifying it as
 - once you are dacing you can control it using the numpad:
 
 Numpad 4 and 7: controls the styles
+
 Numpad 5 and 8: controls the intensity
+
 Numpad 9 and 6: controls the Number version
+
 Numpad + and - : controls the version of the same dance
  
