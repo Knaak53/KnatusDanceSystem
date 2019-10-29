@@ -27,3 +27,17 @@ start KnatusDanceSystem
 ## Youtube demostration
 
 https://www.youtube.com/watch?v=-hZ-OBlJmhc
+
+## How to use
+
+this resource permit to you have totally control over the dance, modifying it as you want between more than 300 possible combinations with easy controls with the numpad:
+
+- Write in chat: /dance [male|female]
+ 
+- once you are dacing you can control it using the numpad:
+
+Numpad 4 and 7: controls the styles
+Numpad 5 and 8: controls the intensity
+Numpad 9 and 6: controls the Number version
+Numpad + and - : controls the version of the same dance
+ 
