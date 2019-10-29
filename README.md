@@ -43,4 +43,6 @@ Numpad 5 and 8: controls the intensity
 Numpad 9 and 6: controls the Number version
 
 Numpad + and - : controls the version of the same dance
+
+To stop dancing just press “X”
  
