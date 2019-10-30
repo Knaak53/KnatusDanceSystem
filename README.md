@@ -20,7 +20,9 @@ use git clone or download it to your esx folder.
 
 write this in your server.cfg
 
+
 start mythic_progbar (only if you dont have it already)
+
 start KnatusDanceSystem
 
 
