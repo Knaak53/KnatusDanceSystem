@@ -11,7 +11,7 @@ This is a complete new dance system for FiveM server with full compatibility to 
  
  ### Requeriments
  To run this code properly in FiveM severs you will need before:
-  - [mythic_progbar](https://github.com/mythicrp/mythic_progbar)
+  - [mythic_progbar](https://github.com/Knaak53/mythic_progbar)
   
 
 # Installation
